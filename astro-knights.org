@@ -1,0 +1,343 @@
+* Card Inventory
+
+** E-1A
+
+- 01 - Stop 1A
+- 02 - Booster Boots
+- 03 - Quick-Draw Pulse
+- 04 - Mirror Matter
+- 05 - Micro Pulsar
+- 06-35 - Power Core
+- 36-48 - Blaster
+- 49 - Turn Order: Player 1
+- 50 - Turn Order: Player 1
+- 51 - Turn Order: Player 2
+- 52 - Turn Order: Player 2
+- 53 - Turn Order: Player 3
+- 54 - Turn Order: Player Wild
+- 55 - Turn Order: 1/2
+- 56 - Turn Order: 1/2
+- 57 - Turn Order: 3/4
+- 58 - Turn Order: 3/4
+- 59 - Turn Order: Boss
+- 60 - Turn Order: Boss
+- 61 - Stop End 1A
+
+** E-1B
+
+- 01 - Stop 1B
+- 02 - Quasar Cell
+- 03 - Quasar Cell
+- 04 - Star Burst
+- 05 - Star Burst
+- 06 - Quantum Sphere
+- 07 - Quantum Sphere
+- 08 - Corona Flare
+- 09 - Corona Flare
+- 10 - Dark Matter Core
+- 11 - Dark Matter Core
+- 12 - Ectoplasm
+- 13 - Ectoplasm
+- 14 - Perpetuum Battery
+- 15 - Perpetuum Battery
+- 16 - Atomic Echo
+- 17 - Atomic Echo
+- 18 - Tensor Field
+- 19 - Tensor Field
+- 20 - Distilled Force
+- 21 - Distilled Force
+- 22 - Harbenite Armor
+- 23 - Harbenite Armor
+- 24 - Drenal Booster
+- 25 - Holo-Projector
+- 26 - Starway Gate
+- 27 - Nano Repair Bots
+- 28 - Neutronic Shielding
+- 29 - Gigaboard
+- 30 - Astromag Pistol
+- 31 - Astromag Pistol
+- 32 - Taze Tethers
+- 33 - Taze Tethers
+- 34 - Flash Bang
+- 35 - Flash Bang
+- 36 - RB-7 Launcher
+- 37 - RB-7 Launcher
+- 38 - Double Shot
+- 39 - Double Shot
+- 40 - Anti-Grav Tactics
+- 41 - Anti-Grav Tactics
+- 42 - Remote Detonator
+- 43 - Remote Detonator
+- 44 - AtmoScope
+- 45 - AtmoScope
+- 46 - HOV Artillery
+- 47 - HOV Artillery
+- 48 - Electroshock Field
+- 49 - Heavy Mecha Cannon
+- 50 - Atomic Gauntlet
+- 51 - Centrifugal Shuriken
+- 52 - Sword Breaker
+- 53 - Dawn Herald
+- 54 - Tai Sabaki Assault
+- 55 -  Stop End 1B
+
+** E-1C
+
+- 01 - Stop 1C
+- 02 - Stomp
+- 03 - Stomp
+- 04 - Snowdrift Lurker
+- 05 - Snowdrift Lurker
+- 06 - Dirathian Snagglefang
+- 07 - Crush
+- 08 - Crush
+- 09 - Claw
+- 10 - Claw
+- 11 - Bite
+- 12 - Smash
+- 13 - Howl
+- 14 - Rip
+- 15 - Rip
+- 16 - Polar Gorefly
+- 17 - Polar Gorefly
+- 18 - Frostbite Bylax
+- 19 - Frozen Bellow
+- 20 - Encase In Ice
+- 21 - Gore
+- 22 - Rend
+- 23 - Tear
+- 24 - Tear
+- 25 - Whitefur Flock
+- 26 -Whitefur Flock
+- 27 - Stop End 1C
+
+** E2
+
+- 01 - Stop 2
+- 02 - Glacial Ray
+- 03 - Shield-Bo
+- 04 - Terra Key
+- 05 - Molten Core
+- 06 - Starcutter
+- 07 - Relay Dagger
+- 08 - Snap Saber
+- 09 - Zap Beetle
+- 10 - Betafly
+- 11 - Circuipede
+- 12 - Vibrascuttle
+- 13 - Dataworm
+- 14 - Wattroach
+- 15 - Electrosting
+- 16 - Ampeater
+- 17 - Joule Jumper
+- 18 - Electick
+- 19 - Dyna Mite
+- 20 - Shockwasp
+- 21 - Voltage Drain
+- 22 - Matter Eater
+- 23 - Blastbot
+- 24 -Gold Sniffer
+- 25 - Synchron Decay
+- 26 - Circuit Hack
+- 27 - Chillbeak
+- 28 - Magnetic Micropulse
+- 29 - Current Breaker
+- 30 - Stop End 2
+
+** E3
+
+- 01 - Stop 3
+- 02 - Delta Wave
+- 03 - Breaking Wave
+- 04 - Radiant Infinity
+- 05 - Nebula Storm
+- 06 - Dual Inferno
+- 07 - Alpha Formation
+- 08 - Gravity Tether
+- 09 - Gravity Tether
+- 10 - Gravity Tether
+- 11 - Gravity Tether
+- 12 - Gravity Tether
+- 13 - Gravity Tether
+- 14 - Gravity Tether
+- 15 - Gravity Tether
+- 16 - Gravity Tether
+- 17 - Burning Wreckage
+- 18 - Asteroid Shard
+- 19 - Solar Shockwave
+- 20 - Nuclear Fusion
+- 21 - Planetary Rubble
+- 22 - Gravitational Collapse
+- 22 - Stop End 3
+
+** E4
+
+- 01 - Stop 4
+- 02 - Would You Always Choose Yourself?
+- 03 - Would You Surrender To Greed?
+- 04 - Would You Sacrifice The Many?
+- 05 - Would You Only Save The Few?
+- 06 - Would You Risk Them All For Victory?
+- 07 - Would You Refuse To Stay And Fight?
+- 08 - Would You Give It All Up?
+- 09 - Would You Leave Them All Behind?
+- 10 - Would You Take What Is Unearned?
+- 11 - Would You Do What's Truly Right?
+- 12 - Would You Think Only Of Yourself?
+- 13 - Would You Cling To What Is Yours?
+- 14 - Would You Defy Your Fate?
+- 15 - Would You Run From Death?
+- 16 - Creeping Guilt
+- 17 - Forgotten Memory
+- 18 - Doubtweaver
+- 19 - Riddlemaster
+- 20 - The Unceasing Song
+- 21 - Missing Whispers
+- 22 - Slipstream Spirit
+- 23 - How Could You?
+- 24 - Your Fault
+- 25 - Stop End 4
+
+** E-END
+
+- 01 - Stop End
+- 02 - Battle 1 - Furion
+- 03 - Battle 1 - Dirathian Behemoth
+- 04 - Battle 1 - Architect-0815
+- 05 - Battle 1 - Continnua
+- 06 - Battle 2 - Volt Fusion
+- 07 - Battle 2 - Lunaris
+- 08 - Battle 2 - Fission Parasite
+- 09 - Battle 2 - Solar Collision
+- 10 - Battle 2 - Eternity
+- 11 - Battle 2 - Continnua
+- 12 - Battle 3 - Solar Collision
+- 13 - Battle 3 - Fission Parasite
+- 14 - Battle 3 - Architect-0815
+- 15 - Battle 3 - Furion
+- 16 - Battle 4 - Eternity
+- 17 - Battle 4 - Lunaris
+- 18 - Battle 4 - Volt Fusion
+- 19 - Battle 4 - Dirathian Behemoth
+- 20 - Knights Randomizer - Z.A.K. - Astro Knights Eternity
+- 21 - Knights Randomizer - Caleb - Astro Knights Eternity
+- 22 - Knights Randomizer - Tsana - Astro Knights Eternity
+- 23 - Knights Randomizer - Reshi - Astro Knights Eternity
+- 24 - Knights Randomizer - Rex & Shield-Bo - Astro Knights Eternity
+- 25 - Knights Randomizer - Pan - Astro Knights Eternity
+- 26 - Knights Randomizer - Christina - Astro Knights
+- 27 - Knights Randomizer - Gavril - Astro Knights
+- 28 - Knights Randomizer - Nasma - Astro Knights
+- 29 - Knights Randomizer - Silas - Astro Knights
+- 30 - Knights Randomizer - Toli - Astro Knights
+- 31 - Knights Randomizer - Z.A.K. - Astro Knights
+- 32 - Knights Randomizer - Alexios - Astro Knights
+- 33 - Knights Randomizer - Deleth - Astro Knights
+- 34 - Stop End End
+
+** E-TC
+
+- 01 - Dirath
+- 02-05 - Reference Card
+- 06 - The Galactic Bazaar
+- 07 - Felis
+- 08 - The Bobcat
+- 09 - Bolster Your Spirits!
+- 10 - Hearts and Stars Align!
+- 11 - Give It Everything You've Got!
+
+** AP2
+
+- 01-37 - Power Core
+- 38-46 - Blaster
+
+** MS
+
+- 01 - Solarus Engine
+- 02 - Solarus Cell
+- 03 - Lithocule Bot
+- 04 - Solarus Barrier
+- 05 - Solarus Spear
+- 06 - Cosmic Boom Boom
+- 07 - Cosmic Boom Boom
+- 08 - Solarus Dual Blades
+- 09 - Solarus Fusion Core
+- 10 - Quantum Kama
+- 11 - K-3 Star
+- 12 - Kinetic Katana
+- 13 - Battle 1 - Shade Sculptor
+- 14 - Battle 4 - Shade Sculptor
+- 15 - Knights Randomizer - Sunshine - Mystery Of Solarus
+- 16 - Knights Randomizer - Naoko - Mystery Of Solarus
+- 17 - Motherboard
+- 18 - Tagteam Thunder
+- 19 - Obsidian Apotheosis
+- 20 - Conceal The Path
+- 21 - Silver Singer
+- 22 - Consume The Stars
+- 23 - Dance In Darkness
+- 24 - Converge And Devour
+- 25 - Phantom Pursuer
+- 26 - Feed My Essence
+- 27 - Siphon The Light
+- 28 - The Mother
+- 29 - Eos
+- 30 - No Knight Left Behind!
+
+** SAV
+
+- 01 - Hadronic Halo
+- 02 - Graviton Feedback
+- 03 - Graviton Feedback
+- 04 - Shimmer Cloak
+- 05 - Threadblade Whip
+- 06 - Threadblade Whip
+- 07 - Spinebiter Cutlass
+- 08 - Mutagenic Seed
+- 09 - Razor Armblades
+- 10 - Super Mega Super Cannon
+- 11 - Sonic Blunderbuss
+- 12 - Zapper
+- 13 - Diversion!
+- 14 - Diversion!
+- 15 - Distraction!
+- 16 - Distraction!
+- 17 - Smoke Bomb!
+- 18 - Smoke Bomb!
+- 19 - Boo!
+- 20 - Boo!
+- 21 - Flash Grenade!
+- 22 - Flash Grenade!
+- 23 - Battle 1 - The Black Hole  Galleon
+- 24 - Battle 3 - The Black Hole  Galleon
+- 25 - Knights Randomizer - Scuttlebutt - Savage Skies
+- 26 - Knights Randomizer - Captain Cadiz - Savage Skies
+- 27 - Scattershooter
+- 28 - Rushing Tiger
+- 29 - Swashbot
+- 30 - Swashbot
+- 31 - Swashbot
+- 32 - Swashbot
+- 33 - Swashbot
+- 34 - Swashbot
+- 35 - Swashbot
+- 36 - Broadside Blast
+- 37 - Starboard Plasma Cannons
+- 38 - First Mate Cutlass Collins
+- 39 - Boarding Party
+- 40 - Grapple Gun
+- 41 - Captain Rustbeard
+- 42 - Nassai IV
+- 43 - Starburst Finale
+
+** Promos
+
+- 08 - Infinite Coil
+- 09 - Phantoscope
+- 10 - Rentek 3.0
+- 11 - Lunar Echo
+- 12 - Falling Star
+- 13 - Blazing Justice
+- 14 - Shield-Bo (Alternate Art)
+- 15 - Centurion
+- 16 - Hit Them Where It Hurts!
